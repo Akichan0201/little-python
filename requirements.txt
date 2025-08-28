@@ -1,0 +1,6 @@
+imageio==2.37.0
+lock==2018.3.25.2110
+numpy==2.3.2
+pillow==11.3.0
+thread==2.0.5
+typing_extensions==4.15.0
